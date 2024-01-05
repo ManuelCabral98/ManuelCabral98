@@ -1,5 +1,6 @@
 ### Hi there 👋
-# Computer science student - 2nd semester
+### Computer science student - 2nd semester
+[![FP-UNA](https://www.pol.una.py/wp-content/uploads/2019/07/fpuna_logo_institucional.svg)]()
 
 <!--
 **ManuelCabral98/ManuelCabral98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

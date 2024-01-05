@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Computer science student - 2nd semester
-[![FP-UNA](https://img.shields.io/badge/FP-UNA-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+![Static Badge](https://img.shields.io/badge/Python?style=for-the-badge&logo=Python&logoColor=blue)
 
 <!--
 **ManuelCabral98/ManuelCabral98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

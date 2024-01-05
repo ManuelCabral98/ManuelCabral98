@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Computer science student - 2nd semester
-[![FP-UNA](https://www.pol.una.py/wp-content/uploads/2019/07/fpuna_logo_institucional.svg)]()
+[![FP-UNA](https://https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)]()
 
 <!--
 **ManuelCabral98/ManuelCabral98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

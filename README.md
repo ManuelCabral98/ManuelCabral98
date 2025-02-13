@@ -1,4 +1,4 @@
-### Computer science student - 2nd semester
+### Computer science student - 3rd semester
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=blue&labelColor=101010)]()
 </br>
 [![FP-UNA](https://img.shields.io/badge/FP_UNA-338BD1)](https://www.pol.una.py)

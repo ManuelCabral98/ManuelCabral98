@@ -1,8 +1,6 @@
 ### Computer Science student at [![FP-UNA](https://img.shields.io/badge/FP_UNA-338BD1)](https://www.pol.una.py)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=blue&labelColor=101010)]()
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Odoo_logo.svg" alt="Odoo Logo" width="200"/>
-</p>
+[![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 

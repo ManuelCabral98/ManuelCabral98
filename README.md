@@ -1,6 +1,9 @@
 ### Computer Science student at [![FP-UNA](https://img.shields.io/badge/FP_UNA-338BD1)](https://www.pol.una.py)
-### Dev at Definetec [![DEFINETEC](https://img.shields.io/badge/Definetec-338BD1)](https://definetec.com.py/index.php/home/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=blue&labelColor=101010)]()
+[![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+
 </br>
 
 

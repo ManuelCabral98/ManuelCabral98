@@ -1,7 +1,7 @@
 # Hello, my name is Alejandro Espínola 👋
 ### Computer Science student at [![FP-UNA](https://img.shields.io/badge/FP_UNA-338BD1)](https://www.pol.una.py)
 
-I'm a 21-year-old Software Developer and Computer Science student at FP-UNA, specializing in Enterprise Software, backend architecture, and modern Fullstack solutions.
+I'm a 22-year-old Software Developer and Computer Science student at FP-UNA, specializing in Enterprise Software, backend architecture, and modern Fullstack solutions.
 
 Currently, I work at [Interfaces S.A.](https://www.interfaces.com.py/) — the leading Odoo Gold Partner in Paraguay. Over the past year, I have been developing complex ERP business logic, optimizing relational databases, and engineering custom enterprise features (CRM, WMS, Accounting, and localized billing systems) using Python and Odoo.
 
